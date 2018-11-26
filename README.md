@@ -28,3 +28,5 @@ Agora que temos a interface do componente pronta, vamos obter os dados do web se
 
 Da mesma forma que exibimos dados no HTML por meio de instruções JavaScript, também podemos definir classes CSS dinamicamente. Para isso, veremos como atribuir um valor à propriedade className de acordo com uma expressão condicional.
 
+Seguiremos agora o mesmo procedimento usado para criar o componente de Resumo e adicionaremos ao projeto o componente Consultas, que consumirá dados do endpoint /consultas.
+
